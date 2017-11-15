@@ -1,11 +1,1 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+{"result":[{"_id":"E7775067-9A0B-4CE9-8082-23BFBBE14357"},{"_id":"51683640-8509-4D82-BE07-8CEA1A5C9151"},{"_id":"C3E3BA03-51E7-4B12-AEF2-18C15F93AEDA"},{"_id":"C57229EB-BFEE-43A4-A86B-FE15FD2A6940"}],"resultCount":4,"pagedResultsCookie":null,"remainingPagedResults":-1}
